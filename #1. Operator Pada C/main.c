@@ -141,5 +141,6 @@ int main()
     char nilaiHuruf = nilaiAngka >= 80 && nilaiAngka <= 100? 'A':"X";
     printf("Nilai Angka %d = %c", nilaiAngka, nilaiHuruf);
 
+
 }
 
